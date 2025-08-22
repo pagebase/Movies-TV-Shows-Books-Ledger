@@ -49,7 +49,7 @@
     - S1E5 (19 Aug 2025)
     - S1E6 (20 Aug 2025)
     - S1E7 (21 Aug 2025)
-    - S1E8
+    - S1E8 (22 Aug 2025)
     - S1E9
     - S1E10
 8. [Dexter: Resurrection](https://www.youtube.com/watch?v=84o1Q6fB20k&t=60)
