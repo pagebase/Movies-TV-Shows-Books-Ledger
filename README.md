@@ -8,10 +8,10 @@
 # TV shows
 
 1. ~~[The last of us](https://www.youtube.com/watch?v=uLtkt8BonwM)~~
-2. ~~Squid game~~
-3. ~~Money heist~~
-4. ~~Dept Q~~
-5. ~~Ironheart~~
+2. ~~[Squid game](https://www.youtube.com/watch?v=oqxAJKy0ii4)~~
+3. ~~[Money heist](https://www.youtube.com/watch?v=_InqQJRqGW4)~~
+4. ~~[Dept Q](https://www.youtube.com/watch?v=72hK6FUmm8o)~~
+5. ~~[Ironheart](https://www.youtube.com/watch?v=WpW36ldAqnM)~~
    - S1E1 (9 Jul 2025)
    - S1E2 (11 Jul 2025)
    - S1E3 (13 Jul 2025)
