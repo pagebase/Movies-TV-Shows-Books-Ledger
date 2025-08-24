@@ -50,8 +50,8 @@
     - S1E6 (20 Aug 2025)
     - S1E7 (21 Aug 2025)
     - S1E8 (22 Aug 2025)
-    - S1E9
-    - S1E10
+    - S1E9 (23 Aug 2025)
+    - S1E10 (23 Aug 2025)
 8. [Dexter: Resurrection](https://www.youtube.com/watch?v=84o1Q6fB20k&t=60)
 9. [Too much](https://www.youtube.com/watch?v=HcrbR6EXynM&t=87)
 10. [Foundation](https://www.youtube.com/watch?v=X4QYV5GTz7c&t=39)
