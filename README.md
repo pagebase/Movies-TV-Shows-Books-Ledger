@@ -7,7 +7,7 @@
 ---
 # TV shows
 
-1. ~~The last of us~~
+1. ~~[The last of us](https://www.youtube.com/watch?v=uLtkt8BonwM)~~
 2. ~~Squid game~~
 3. ~~Money heist~~
 4. ~~Dept Q~~
