@@ -40,7 +40,7 @@
     - S2E9 (4 Aug 2025)
     - S210 (6 Aug 2025)
     - S2E11 (7 Aug 2025)
-7. [Ballard](https://www.youtube.com/watch?v=9nKRJGXgK0Q&t=48)
+7. ~~[Ballard](https://www.youtube.com/watch?v=9nKRJGXgK0Q&t=48)~~
 
     - S1E1 (14 Aug 2025)
     - S1E2 (15 Aug 2025)
