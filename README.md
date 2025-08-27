@@ -63,7 +63,7 @@
 16. [MobLand](https://www.youtube.com/watch?v=qKGgw7Ob5f4&t=16)
 17. [Wednesday](https://www.youtube.com/watch?v=Di310WS8zLk)
 
-    - S1E1 (25 Aug 2025)
+    - S1E1 (27 Aug 2025)
 ---
 # Movies
 
