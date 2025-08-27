@@ -87,7 +87,3 @@
 18. [Into the wild](https://www.youtube.com/watch?v=XZG1FzyB8DI)
 19. [Venom](https://www.youtube.com/watch?v=u9Mv98Gr5pY)
 ---
-# Books
-1. [Automate the boring stuff with python](https://www.amazon.in/Automate-Boring-Stuff-Python-3rd-ebook/dp/B0CG8BSP2R/ref=mp_s_a_1_2?crid=17VU94EV52C4G&dib=eyJ2IjoiMSJ9.xLctaNaGcXQ0k8KXfm28_hfi2wvVNLiwo-NnyZ57Fh8_gYKeeVCluet7ikBhHXthe9nTyLbcS4Clux9Y5aEeLk53NBIC5AS_W2lqxlwZAuMYjROaT1G2hiFPCi2fA-2IlGvpJdGa2pc0LGB9Ym-Gc2c0bzQ-dPKmFeAJeacnAM6qIUu6HzCXpx9kytnA9T1YK6IUkG2p5YgWZBTH66rrMg.hoL4SqW-w5ITYhdgPgOIagRPTHTVeIqoitrFogJ8j64&dib_tag=se&keywords=automate+the+boring+stuff+with+python&qid=1755798381&sprefix=automate+the%2Caps%2C376&sr=8-2)
-
-2. [Thinking Fast And Slow](https://www.amazon.in/Thinking-Fast-Slow-Daniel-Kahneman-ebook/dp/B005MJFA2W/ref=mp_s_a_1_1?crid=8RPDH8JHAFCH&dib=eyJ2IjoiMSJ9.orgi45a-1Cv7i7xedcDFq1oXxKzzM3FK6joa6c67XTkXwR9XbZKu2X7KkoQeME_11cfAdXhHb8H2F8B3pd1NJDn9edApjqkAdkjCQEHu90aDf5nbl6ujxrWYsdd5zVRPb0AnCj3D-MPmM3t_KSjXF4dz9phzA6rw5nhhhl6hljuisF-RseP8peS0UJgJFV5f20lxtS2t5zgjhwf6R9BYjA.K-P7hoxoqMZve_CQUOn1zJVzVWTHQIkAfm1FR6Qo1b8&dib_tag=se&keywords=thinking+fast+and+slow&qid=1755800040&s=digital-text&sprefix=Think%2Cdigital-text%2C277&sr=1-1)
