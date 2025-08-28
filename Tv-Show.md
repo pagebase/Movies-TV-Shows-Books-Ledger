@@ -55,3 +55,4 @@
 17. [Wednesday](https://www.youtube.com/watch?v=Di310WS8zLk)
 
     - S1E1 (27 Aug 2025)
+    - S1E2 (28 Aug 2025)
