@@ -1,5 +1,5 @@
-1. ~~Top gun: Maverick~~
-2. ~~Snowden~~
+1. ~~[Top gun: Maverick](https://youtu.be/qSqVVswa420?feature=shared)~~
+2. ~~[Snowden](https://youtu.be/QlSAiI3xMh4?feature=shared)~~
 3. ~~Mission impossible: Final reckoning.~~
 4. ~~[F1 the movie](https://www.youtube.com/watch?v=8yh9BPUBbbQ)~~
 5. [The Nun](https://www.youtube.com/watch?v=pzD9zGcUNrw)
