@@ -48,47 +48,37 @@ In short:
 24. **Replace bad habits with good one instead of completely cutting out**
 25. **Use Fog Behavior Model:** 
 
-	 The **Fogg Behavior Model (FBM)** is a psychological framework developed by **BJ Fogg**, a behavior scientist at Stanford University. It explains how and why people perform a particular behavior, especially in the context of behavior design, habit formation, and persuasive technology.
-	### 🔑 **Core Idea**
-
-	According to the FBM, **behavior happens when three elements converge at the same moment**:
-
-	**B = M × A × P**
+    The **Fogg Behavior Model (FBM)** is a psychological framework developed by **BJ Fogg**, a behavior scientist at Stanford University. It explains how and why people perform a particular behavior, especially in the context of behavior design, habit formation, and persuasive technology.
 	
-	- **Behavior (B)** happens when there is:
+    According to the FBM, **behavior happens when three elements converge at the same moment**:
+
+    **B = M × A × P**
+	
+    - **Behavior (B)** happens when there is:
 	    
-	    1. **Motivation (M)** → the desire to perform the behavior.
+        1. **Motivation (M)** → the desire to perform the behavior.
 	        
 	    2. **Ability (A)** → the ease of performing the behavior.
 	        
 	    3. **Prompt (P)** → a cue or trigger that reminds/requests the behavior.
 	        
+If one of these three is missing, the behavior will not occur.
 	
-	If one of these three is missing, the behavior will not occur.
-	
-	 ### ⚙️ **How it Works**
+### ⚙️ **How it Works**
+
 
 1. **Motivation**
-    
-    - People need to _want_ to do something.
-        
-    - Motivation can come from different sources: pleasure vs. pain, hope vs. fear, social acceptance vs. rejection.
-        
-2. **Ability**
-    
-    - The behavior must be _easy enough_ to do.
-        
-    - Simpler behaviors are more likely to occur.
-        
-    - Fogg often talks about finding the "tiny version" of a behavior (e.g., flossing one tooth, doing one push-up).
-        
-3. **Prompt** (sometimes called "Trigger")
-    
-    - Even if someone is motivated and able, they won’t act unless something prompts them.
-        
-    - Prompts can be external (e.g., a notification) or internal (e.g., feeling thirsty).
 
-	### 🎯 **Practical Example**
+    - People need to _want_ to do something.
+    - Motivation can come from different sources: pleasure vs. pain, hope vs. fear, social acceptance vs. rejection.
+2. **Ability**
+    - The behavior must be _easy enough_ to do.
+    - Simpler behaviors are more likely to occur.
+    - Fogg often talks about finding the "tiny version" of a behavior (e.g., flossing one tooth, doing one push-up).
+3. **Prompt** (sometimes called "Trigger")
+    - Even if someone is motivated and able, they won’t act unless something prompts them.
+    - Prompts can be external (e.g., a notification) or internal (e.g., feeling thirsty).
+### 🎯 **Practical Example**
 
 - You want to encourage someone to **exercise daily**.
     
@@ -101,3 +91,65 @@ In short:
 
 So, a **tiny, easy version** + clear prompt + some motivation increases the chance of the new habit sticking.
 
+
+26. **Morning routine:** Morning routine is best kick start your day.
+	1. **Spend some time on reflecting dreams** **Apply DREAMS:** 
+	    1. **D for Decide:** The night before, make a conscious decision that you're going to recall your dreams. If you set the intention, your chances improve.
+		2. **R for Record:** Keep pen and paper by your bedside, or even have a recording app readily available on your phone. As soon as you wake up, record any lingering remembrance of your dreams.
+		3. **E for Eyes:** Keep your eyes closed right after you awaken. Dreams can disappear withing minutes, and if you keep your eyes closed, this will help you reflect.
+		4. **A for Affirm:** Before you go to sleep, affirm that you're going to remember your dreams, because affirmation is a critical tool in accomplishment.
+		5. **M for Manage:** Establish good sleep routine.
+		6. **S for Share:** Share your dreams with someone or write it into your diary, by doing this you bring them more and more to the surface.
+
+27. **Finding flow:** How to find flow and enter into it.
+    1. **Eliminate distraction:** Even short interruptions can derail your focus—it may take **up to 20 minutes** to regain flow after a distraction.
+	2. **Give yourself enough time:** Flow doesn’t emerge in brief bursts. Plan for **at least 90 minutes**, ideally **up to two hours**, to enter and maintain flow.
+	3. **Do something you love:** Deep engagement is far easier when you’re working on something meaningful and enjoyable to you.
+	4. **Have a clear goals:** Knowing exactly what you're aiming to accomplish helps your mind stay focused and on target.
+	5. **Challenge yourself... A little:** The task should stretch your abilities—but not overwhelm you. This sweet spot between boredom and frustration is where flow happens. 
+	
+	    #### Example:
+		
+	
+	    ### 🔑 1. Raise the Bar Gradually
+
+        - Pick a task that’s just _slightly harder_ than what you’re used to.
+    
+        - For example, if you normally read 10 pages a day, try 12–15.
+    
+    	- The challenge should feel exciting, not paralyzing.
+
+
+28. **Conquering enemies of flow:** Ben Parker said *Great power comes with great responsibility*, here as well enemies jumps in, don't worry, we both eliminate them.
+    1. **Multitasking:** Splitting your attention kills deep focus.
+	2. **Stress:** Emotional or mental strain can block entry into flow—address stressors or shield yourself from them.
+	3. **Fear of failure:** Overthinking can paralyze creativity. Embrace progress over perfection. *Perfectionism reduces creativity and innovation*.
+	4. **Lack of conviction:** You're mind is kid who always ask doubts and questions. If you don't believe you're going to accomplish anything of importance, you'll guarantee that will be the outcome. If you go into a task doubting your ability to complete it, ask yourself these questions: *Do I have the necessary skills to do this?*, *Do I have all the information I need to do this?*, *Do I have enough passion for this project to do this?*. If the answer to any of these is **NO**, set the task aside until you can answer each of these questions in the affirmative. But if the answer to all three of these questions is **YES**, take this supervillain down and get into the flow.
+
+29. **Employee active recall**
+30. **Manage your state:**  Your body drives your brain, so careful with your body madam/sir.
+    - **Move:** Quick stretches, jumping jacks, or even just standing tall.
+	- **Breathe**: deep, slow breaths calm the mind and cut stress.
+	- **Hydrate**: dehydration reduces focus and memory.
+
+31. **While studying or memorizing things, spray scent around you:** Following is the scent which help you in different scenario.
+    - Peppermint → alertness, wakefulness
+    - Citrus (lemon, orange, grapefruit) → energy, positivity    
+    - Eucalyptus → mental clarity
+32. **Listen Baroque music while studying on memorizing things**
+33. **Listen to your whole brain:** 
+    Your brain learns through:
+
+    - **Visual** (see it)    
+    - **Auditory** (hear it)    
+    - **Kinesthetic** (do it, move it)  
+    👉 Listening to your whole brain means activating multiple senses at once. Example: read aloud (auditory), take notes with drawings (visual), and move while reciting (kinesthetic).
+
+34. **Note taking tips:** This involves *TIP* techniques.
+    1. **T for Think:** Before you begin any session where you're going to be taking notes, think about what you're hoping to retain most from this session. This will help you filter the high value information from the information that is less relevant to your goal.
+	2. **I for Identity:** Listen carefully to the information being presented and identify what is most important in the context of your goal. Remember that attempting to write down everything is going to make it impossible to process the information at the time and will probably make studying harder. Identify what you need the most and write that down.
+	3. **P for Prioritize:** As you review your notes after the presentation, prioritize the information that is most valuable to you, perhaps adding additional notes as necessary to make the priority information clearer or making an outline to highlight key points.
+
+35. **Remember things through creating story:**  If you want to remember this number *413307* number, you can create story according to this number as *An monkey came into my shop and gave me 41 rupees and asked to show 33 centimeter underwear and 07 number logo Hat*. Story is weird but don't worry no one would rank you own story unless you share to someone.
+36. **Improve memory by day dreaming and visualization**
+37. **Associate things with SEL:** Remember things through *Location* based, *Emotion* based and *Smell* based. You can spray scent in your room and have study. You can store things in your mind through location based (Memory palace technique). You can add emotion in your story as I mentioned in 35th tips.
