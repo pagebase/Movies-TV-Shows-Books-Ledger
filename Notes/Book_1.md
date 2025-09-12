@@ -136,6 +136,9 @@ If one of these three is missing, the behavior will not occur.
 
 So, a **tiny, easy version** + clear prompt + some motivation increases the chance of the new habit sticking.
 
+---
+
+
 26. **Morning routine:** Morning routine is best kick start your day.
 	1. **Spend some time on reflecting dreams** **Apply DREAMS:** 
 	    - **D for Decide:** The night before, make a conscious decision that you're going to recall your dreams. If you set the intention, your chances improve.
