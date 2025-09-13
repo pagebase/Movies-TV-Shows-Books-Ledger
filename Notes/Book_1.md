@@ -5,7 +5,7 @@
 5. **Use Pomodoro technique:** 
 6. **Use spaced repetition technique:**
 7. **Remove limitless beliefs:** Have you ever had the experience of being in a pressure situation where you need to do something that typically comes easily to you- writing a memo or doing quick calculation, for example- but the intensity causes you to doubt yourself so much that you fail at this task? That's a limiting belief setting you back.
-	1. **Name the belief:** If you always say to you like *I'm terrible at public speaking*. Writing them down or saying them out loud make aware. If you ever get negative thoughts like this, simple write it down or say it out loud.
+	*. **Name the belief:** If you always say to you like *I'm terrible at public speaking*. Writing them down or saying them out loud make aware. If you ever get negative thoughts like this, simple write it down or say it out loud.
 	2. **Check the facts:** Most beliefs made in childhood such as *ghost in this room*,  *I can't run faster than Bolt*, these are the beliefs made in childhood, since that day you been accepting it. If you ever get stuck while solving anything just ask to yourself ***Is this always true? Where's the proof?*
 	3. **Create new belief:**  Replace old belief with new one. For example: *I'm bad at public speaking* this line was negative, let's shine this one with new one as *I can improve my public speaking skill by participating in stage events, fest, announcements*. In short:
  *Catch* the belief, *Question* the belief, *Change* the belief.
