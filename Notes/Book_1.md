@@ -134,7 +134,8 @@ If one of these three is missing, the behavior will not occur.
     - **Prompt**: A reminder on their phone or leaving workout shoes by the bed.
         
 
-So, a **tiny, easy version** + clear prompt + some motivation increases the chance of the new habit sticking.
+    So, a **tiny, easy version** + clear prompt + some motivation increases the chance of the new habit sticking.
+
 
 26. **Morning routine:** Morning routine is best kick start your day.
 	1. **Spend some time on reflecting dreams** **Apply DREAMS:** 
