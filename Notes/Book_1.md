@@ -89,11 +89,9 @@ If one of these three is missing, the behavior will not occur.
 
 	
 	#### Example:
-        - Pick a task that’s just _slightly harder_ than what you’re used to.
-    
-        - For example, if you normally read 10 pages a day, try 12–15.
-    
-    	- The challenge should feel exciting, not paralyzing.
+    - Pick a task that’s just _slightly harder_ than what you’re used to.
+    - For example, if you normally read 10 pages a day, try 12–15.
+    - The challenge should feel exciting, not paralyzing.
 28. **Conquering enemies of flow:** Ben Parker said *Great power comes with great responsibility*, here as well enemies jumps in, don't worry, we both eliminate them.
     - **Multitasking:** Splitting your attention kills deep focus.
 	- **Stress:** Emotional or mental strain can block entry into flow—address stressors or shield yourself from them.
