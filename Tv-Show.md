@@ -16,4 +16,4 @@
 16. [MobLand](https://www.youtube.com/watch?v=qKGgw7Ob5f4&t=16)
 17. ~~[Wednesday](https://www.youtube.com/watch?v=Di310WS8zLk)~~
 17. [Wolf king](https://youtu.be/QqDDuVe9dw8?feature=shared)
-18. [Chernobyl](https://youtu.be/s9APLXM9Ei8?feature=shared)
+18. ``[Chernobyl](https://youtu.be/s9APLXM9Ei8?feature=shared)``
