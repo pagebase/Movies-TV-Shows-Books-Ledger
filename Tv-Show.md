@@ -5,7 +5,7 @@
 5. ~~[Ironheart](https://www.youtube.com/watch?v=WpW36ldAqnM)~~
 6. ~~[The Sandman](https://www.youtube.com/watch?v=Z6pdYkqeT7A&t=46)~~
 7. ~~[Ballard](https://www.youtube.com/watch?v=9nKRJGXgK0Q&t=48)~~
-8. [Dexter: Resurrection](https://youtu.be/84o1Q6fB20k?feature=shared)
+8. ~~[Dexter: Resurrection](https://youtu.be/84o1Q6fB20k?feature=shared)~~ (26 Sep 2025)
 9. [Too much](https://www.youtube.com/watch?v=HcrbR6EXynM&t=87)
 10. [Foundation](https://www.youtube.com/watch?v=X4QYV5GTz7c&t=39)
 11. [The survivors](https://www.youtube.com/watch?v=c69c1P-EURg&t=11)
