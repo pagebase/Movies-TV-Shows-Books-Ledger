@@ -1,1 +1,1 @@
-# [**Limitless** by *Jim Kwik*]
+# **Limitless** by *Jim Kwik*
