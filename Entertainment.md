@@ -2,7 +2,7 @@
 
 [Movies](#movies)
 
-[TV Show](#tv-show)
+[TV Show](#tv-shows)
 
 ---
 
