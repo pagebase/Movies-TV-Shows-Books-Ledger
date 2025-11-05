@@ -1,3 +1,9 @@
+# Table of content
+
+1.[**Limitless** by *Jim Kwik*](#limitless-by-jim-kwik)
+
+---
+
 # **Limitless** by *Jim Kwik*
 
 1. **Get bored:** Boredom help you light your current situation and help you understand what you're are. Next time if you are waiting for bus or waiting in queue, don't pull out phone, just observe others. If you can figure out their occupation by just observing people would be great super power.
