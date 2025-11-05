@@ -689,8 +689,6 @@ Wicked Cool Ruby Scripts
 
 # Python books
 
-Automate the Boring Stuff with Python -- Workbook
-
 Computer Science From Scratch
 
 Practical Deep Learning, 2nd Edition
