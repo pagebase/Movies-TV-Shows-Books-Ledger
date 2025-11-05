@@ -56,5 +56,6 @@
 21. [Alice in Borderland](https://www.youtube.com/watch?v=49_44FFKZ1M&t=6)
 22. [True Detective](https://youtu.be/fVQUcaO4AvE?feature=shared)
 23. [The man in the high castle](https://youtu.be/zzayf9GpXCI?si=mOP0pMOR3zDm-Z1g)
+24. [The Witcher](https://www.youtube.com/watch?v=ndl1W4ltcmg)
 
 ---
