@@ -1,8 +1,8 @@
 # Table of content
 
-[Movies](#movies)
+- [Movies](#movies)
 
-[TV Show](#tv-shows)
+- [TV Show](#tv-shows)
 
 ---
 
