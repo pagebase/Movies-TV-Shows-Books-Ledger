@@ -15,7 +15,7 @@
 5. ~~[The Nun](https://www.youtube.com/watch?v=pzD9zGcUNrw)~~
 6. ~~[Annabelle: Creation](https://www.youtube.com/watch?v=KisPhy7T__Q)~~
 7. ~~[Annabelle](https://www.youtube.com/watch?v=paFgQNPGlsg)~~ (6 Nov 2025)
-8. [The Conjuring: Last Rites](https://www.youtube.com/watch?v=FSAz556s0fM)
+8. ~~[The Conjuring: Last Rites](https://www.youtube.com/watch?v=FSAz556s0fM)~~
 9. [Annabelle comes home](https://www.youtube.com/watch?v=bCxm7cTpBAs)
 10. [The Curse Of La Llorona](https://www.youtube.com/watch?v=uOV-xMYQ7sk)
 11. [The Conjuring 2](https://www.youtube.com/watch?v=VFsmuRPClr4)
