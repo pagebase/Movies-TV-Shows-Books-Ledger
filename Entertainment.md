@@ -28,6 +28,7 @@
 18. [Into the wild](https://www.youtube.com/watch?v=XZG1FzyB8DI)
 19. [Venom](https://www.youtube.com/watch?v=u9Mv98Gr5pY)
 20. [The house of dynamite](https://youtu.be/0w6wUqWU3yU?feature=shared)
+21. [Detroit](https://youtu.be/HFeWsDpy9y0?si=MShx87XZSHKmeXck)
 
 ---
 
