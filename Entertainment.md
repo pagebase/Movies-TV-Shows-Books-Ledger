@@ -42,7 +42,7 @@
 6. ~~[The Sandman](https://www.youtube.com/watch?v=Z6pdYkqeT7A&t=46)~~
 7. ~~[Ballard](https://www.youtube.com/watch?v=9nKRJGXgK0Q&t=48)~~
 8. ~~[Dexter: Resurrection](https://youtu.be/84o1Q6fB20k?feature=shared)~~ (26 Sep 2025)
-9. [Foundation](https://www.youtube.com/watch?v=X4QYV5GTz7c&t=39)
+9. [Foundation](https://youtu.be/X4QYV5GTz7c?si=AX47NSAYd3wgFbyR)
 10. [The survivors](https://www.youtube.com/watch?v=c69c1P-EURg&t=11)
 11. [Legion](https://www.youtube.com/watch?v=4SZ3rMMYBLY&t=36)
 12. [The OA](https://www.youtube.com/watch?v=DvHJtez2IlY&t=16)
